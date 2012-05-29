@@ -1,0 +1,477 @@
+TDropDownDemo
+v7
+r0
+t307211219.581900
+cCheck dependencies
+cProcessInfoPlistFile /Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/Info.plist DropDownDemo-Info.plist
+cCompileXIB /Users/ameya/project/junk/DropDownDemo/MainWindow.xib
+cCompileXIB /Users/ameya/project/junk/DropDownDemo/DropDownDemoViewController.xib
+cCompileXIB /Users/ameya/project/junk/DropDownDemo/Classes/FirstController.xib
+cCompileXIB /Users/ameya/project/junk/DropDownDemo/Classes/SecondController.xib
+cCpResource build/Debug-iphonesimulator/DropDownDemo.app/button_back.png Images/button_back.png
+cCpResource build/Debug-iphonesimulator/DropDownDemo.app/down.png Images/down.png
+cProcessPCH /var/folders/-j/-jhyn+QTGluq5IHDN8k9qU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DropDownDemo_Prefix-dmekobcfwentjadwzhhdimhnsgtb/DropDownDemo_Prefix.pch.gch DropDownDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/main.o /Users/ameya/project/junk/DropDownDemo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/DropDownDemoAppDelegate.o /Users/ameya/project/junk/DropDownDemo/Classes/DropDownDemoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/DropDownDemoViewController.o /Users/ameya/project/junk/DropDownDemo/Classes/DropDownDemoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/FirstController.o /Users/ameya/project/junk/DropDownDemo/Classes/FirstController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/SecondController.o /Users/ameya/project/junk/DropDownDemo/Classes/SecondController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/DropDownView.o /Users/ameya/project/junk/DropDownDemo/Classes/DropDownView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/DropDownDemo normal i386
+cGenerateDSYMFile /Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app.dSYM /Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/DropDownDemo
+cTouch /Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C873E820000000000000132
+t1283931778
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C04586B00000000000000C4
+t1275353195
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/ameya/project/junk/DropDownDemo/Classes/DropDownDemoAppDelegate.h
+c000000004C9D05C0000000000000027D
+t1285359040
+s637
+i<UIKit/UIKit.h>
+
+N/Users/ameya/project/junk/DropDownDemo/Classes/DropDownDemoAppDelegate.m
+c000000004C9F74520000000000000D43
+t1285518418
+s3395
+i"DropDownDemoAppDelegate.h"
+i"DropDownDemoViewController.h"
+i"FirstController.h"
+i"SecondController.h"
+
+N/Users/ameya/project/junk/DropDownDemo/Classes/DropDownDemoViewController.h
+c000000004C9D03D600000000000000F7
+t1285358550
+s247
+i<UIKit/UIKit.h>
+
+N/Users/ameya/project/junk/DropDownDemo/Classes/DropDownDemoViewController.m
+c000000004C9D03D600000000000005C7
+t1285358550
+s1479
+i"DropDownDemoViewController.h"
+
+N/Users/ameya/project/junk/DropDownDemo/Classes/DropDownView.h
+c000000004C9DD3CA0000000000000681
+t1285411786
+s1665
+i<UIKit/UIKit.h>
+
+N/Users/ameya/project/junk/DropDownDemo/Classes/DropDownView.m
+c000000004C9DD40000000000000015D4
+t1285411840
+s5588
+i"DropDownView.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/ameya/project/junk/DropDownDemo/Classes/FirstController.h
+c000000004C9DC5E600000000000001B3
+t1285408230
+s435
+i<UIKit/UIKit.h>
+i"DropDownView.h"
+
+N/Users/ameya/project/junk/DropDownDemo/Classes/FirstController.m
+c000000004C9DD4470000000000000633
+t1285411911
+s1587
+i"FirstController.h"
+
+N/Users/ameya/project/junk/DropDownDemo/Classes/FirstController.xib
+c000000004C9DC5F50000000000004B67
+t1285408245
+s19303
+
+N/Users/ameya/project/junk/DropDownDemo/Classes/SecondController.h
+c000000004C9D0B690000000000000206
+t1285360489
+s518
+i<UIKit/UIKit.h>
+i"DropDownView.h"
+
+N/Users/ameya/project/junk/DropDownDemo/Classes/SecondController.m
+c000000004C9DD4470000000000000A06
+t1285411911
+s2566
+i"SecondController.h"
+
+N/Users/ameya/project/junk/DropDownDemo/Classes/SecondController.xib
+c000000004C9D074D000000000000426D
+t1285359437
+s17005
+
+N/Users/ameya/project/junk/DropDownDemo/Classes/SettingController.h
+c000000004C9F70C4000000000000017F
+t1285517508
+s383
+i<UIKit/UIKit.h>
+
+N/Users/ameya/project/junk/DropDownDemo/Classes/SettingController.m
+c000000004C9F73E400000000000016F9
+t1285518308
+s5881
+i"SettingController.h"
+
+N/Users/ameya/project/junk/DropDownDemo/Classes/SettingController.xib
+c000000004C9DD510000000000000186E
+t1285412112
+s6254
+
+N/Users/ameya/project/junk/DropDownDemo/DropDownDemoViewController.xib
+c000000004C9D03D60000000000001A59
+t1285358550
+s6745
+
+N/Users/ameya/project/junk/DropDownDemo/DropDownDemo_Prefix.pch
+c000000004C9D03D600000000000000C1
+t1285358550
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ameya/project/junk/DropDownDemo/Images/button_back.png
+c000000004C9DC321000000000000034F
+t1285407521
+s847
+
+N/Users/ameya/project/junk/DropDownDemo/Images/down.png
+c000000004C9E472600000000000000C5
+t1285441318
+s197
+
+N/Users/ameya/project/junk/DropDownDemo/MainWindow.xib
+c000000004C9D03D60000000000004E65
+t1285358550
+s20069
+
+N/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app
+t1285518419
+s408
+
+N/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app.dSYM
+t1285518419
+s102
+
+N/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/DropDownDemo
+t1285518419
+s46344
+
+N/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/DropDownDemoViewController.nib
+t1285359041
+s795
+
+N/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/FirstController.nib
+t1285408252
+s1548
+
+N/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/Info.plist
+t1285359040
+s611
+
+N/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/MainWindow.nib
+t1285359041
+s1133
+
+N/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/PkgInfo
+t1285359040
+s8
+
+N/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/SecondController.nib
+t1285359444
+s981
+
+N/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/SettingController.nib
+t1285440915
+s764
+
+N/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/button_back.png
+t1285407974
+s847
+
+N/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/down.png
+t1285441400
+s197
+
+N/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/DropDownDemo.LinkFileList
+c000000004C9F74530000000000000360
+t1285518419
+s864
+
+N/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/DropDownDemoAppDelegate.o
+t1285518419
+s55420
+
+N/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/DropDownDemoViewController.o
+t1285359042
+s34500
+
+N/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/DropDownView.o
+t1285411860
+s70416
+
+N/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/FirstController.o
+t1285411911
+s41516
+
+N/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/SecondController.o
+t1285411911
+s46084
+
+N/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/SettingController.o
+t1285518273
+s54412
+
+N/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/main.o
+t1285359042
+s6304
+
+N/Users/ameya/project/junk/DropDownDemo/main.m
+c000000004C9D03D60000000000000168
+t1285358550
+s360
+i<UIKit/UIKit.h>
+
+N/var/folders/-j/-jhyn+QTGluq5IHDN8k9qU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DropDownDemo_Prefix-dmekobcfwentjadwzhhdimhnsgtb/DropDownDemo_Prefix.pch.gch
+t1285359042
+s15232016
+
+NDropDownDemo-Info.plist
+c000000004C9D03D6000000000000038D
+t1285358550
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307211219#307211219#0(0"0(0#1#0"8611775680#0"0#
+
+CCompileC build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/DropDownDemoAppDelegate.o /Users/ameya/project/junk/DropDownDemo/Classes/DropDownDemoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307211219.391873
+e307211219.532952
+r1
+xCompileC
+xbuild/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/DropDownDemoAppDelegate.o
+x/Users/ameya/project/junk/DropDownDemo/Classes/DropDownDemoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/ameya/project/junk/DropDownDemo/Classes/DropDownDemoAppDelegate.m307211219#307211219#0(0"0(0#0#72"/Users/ameya/project/junk/DropDownDemo/Classes/DropDownDemoAppDelegate.m8602792960#2047"    cd /Users/ameya/project/junk/DropDownDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-generated-files.hmap -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-own-target-headers.hmap -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-all-target-headers.hmap -iquote /Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-project-headers.hmap -F/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator -I/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/include -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DerivedSources/i386 -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DerivedSources -include /var/folders/-j/-jhyn+QTGluq5IHDN8k9qU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DropDownDemo_Prefix-dmekobcfwentjadwzhhdimhnsgtb/DropDownDemo_Prefix.pch -c /Users/ameya/project/junk/DropDownDemo/Classes/DropDownDemoAppDelegate.m -o /Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/DropDownDemoAppDelegate.o0#
+
+CCompileC build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/DropDownDemoViewController.o /Users/ameya/project/junk/DropDownDemo/Classes/DropDownDemoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307051842.331390
+e307051842.398877
+r1
+xCompileC
+xbuild/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/DropDownDemoViewController.o
+x/Users/ameya/project/junk/DropDownDemo/Classes/DropDownDemoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/ameya/project/junk/DropDownDemo/Classes/DropDownDemoViewController.m307051842#307051842#0(0"0(0#0#75"/Users/ameya/project/junk/DropDownDemo/Classes/DropDownDemoViewController.m8614324480#2053"    cd /Users/ameya/project/junk/DropDownDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-generated-files.hmap -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-own-target-headers.hmap -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-all-target-headers.hmap -iquote /Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-project-headers.hmap -F/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator -I/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/include -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DerivedSources/i386 -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DerivedSources -include /var/folders/-j/-jhyn+QTGluq5IHDN8k9qU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DropDownDemo_Prefix-dmekobcfwentjadwzhhdimhnsgtb/DropDownDemo_Prefix.pch -c /Users/ameya/project/junk/DropDownDemo/Classes/DropDownDemoViewController.m -o /Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/DropDownDemoViewController.o0#
+
+CCompileC build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/DropDownView.o /Users/ameya/project/junk/DropDownDemo/Classes/DropDownView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307104660.495757
+e307104660.602351
+r1
+xCompileC
+xbuild/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/DropDownView.o
+x/Users/ameya/project/junk/DropDownDemo/Classes/DropDownView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/ameya/project/junk/DropDownDemo/Classes/DropDownView.m307104660#307104660#0(0"0(0#0#61"/Users/ameya/project/junk/DropDownDemo/Classes/DropDownView.m8602429888#2025"    cd /Users/ameya/project/junk/DropDownDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-generated-files.hmap -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-own-target-headers.hmap -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-all-target-headers.hmap -iquote /Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-project-headers.hmap -F/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator -I/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/include -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DerivedSources/i386 -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DerivedSources -include /var/folders/-j/-jhyn+QTGluq5IHDN8k9qU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DropDownDemo_Prefix-dmekobcfwentjadwzhhdimhnsgtb/DropDownDemo_Prefix.pch -c /Users/ameya/project/junk/DropDownDemo/Classes/DropDownView.m -o /Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/DropDownView.o0#
+
+CCompileC build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/FirstController.o /Users/ameya/project/junk/DropDownDemo/Classes/FirstController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307104711.833913
+e307104711.995261
+r1
+xCompileC
+xbuild/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/FirstController.o
+x/Users/ameya/project/junk/DropDownDemo/Classes/FirstController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/ameya/project/junk/DropDownDemo/Classes/FirstController.m307104711#307104711#0(0"0(0#0#64"/Users/ameya/project/junk/DropDownDemo/Classes/FirstController.m8600223360#2031"    cd /Users/ameya/project/junk/DropDownDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-generated-files.hmap -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-own-target-headers.hmap -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-all-target-headers.hmap -iquote /Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-project-headers.hmap -F/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator -I/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/include -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DerivedSources/i386 -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DerivedSources -include /var/folders/-j/-jhyn+QTGluq5IHDN8k9qU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DropDownDemo_Prefix-dmekobcfwentjadwzhhdimhnsgtb/DropDownDemo_Prefix.pch -c /Users/ameya/project/junk/DropDownDemo/Classes/FirstController.m -o /Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/FirstController.o0#
+
+CCompileC build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/SecondController.o /Users/ameya/project/junk/DropDownDemo/Classes/SecondController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307104711.834785
+e307104711.962448
+r1
+xCompileC
+xbuild/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/SecondController.o
+x/Users/ameya/project/junk/DropDownDemo/Classes/SecondController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/ameya/project/junk/DropDownDemo/Classes/SecondController.m307104711#307104711#0(0"0(0#0#65"/Users/ameya/project/junk/DropDownDemo/Classes/SecondController.m8618472256#2033"    cd /Users/ameya/project/junk/DropDownDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-generated-files.hmap -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-own-target-headers.hmap -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-all-target-headers.hmap -iquote /Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-project-headers.hmap -F/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator -I/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/include -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DerivedSources/i386 -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DerivedSources -include /var/folders/-j/-jhyn+QTGluq5IHDN8k9qU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DropDownDemo_Prefix-dmekobcfwentjadwzhhdimhnsgtb/DropDownDemo_Prefix.pch -c /Users/ameya/project/junk/DropDownDemo/Classes/SecondController.m -o /Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/SecondController.o0#
+
+CCompileC build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/SettingController.o /Users/ameya/project/junk/DropDownDemo/Classes/SettingController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307211073.780085
+e307211073.926984
+r1
+xCompileC
+xbuild/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/SettingController.o
+x/Users/ameya/project/junk/DropDownDemo/Classes/SettingController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/ameya/project/junk/DropDownDemo/Classes/SettingController.m307211073#307211073#0(0"0(0#0#66"/Users/ameya/project/junk/DropDownDemo/Classes/SettingController.m8616562336#2035"    cd /Users/ameya/project/junk/DropDownDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-generated-files.hmap -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-own-target-headers.hmap -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-all-target-headers.hmap -iquote /Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-project-headers.hmap -F/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator -I/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/include -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DerivedSources/i386 -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DerivedSources -include /var/folders/-j/-jhyn+QTGluq5IHDN8k9qU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DropDownDemo_Prefix-dmekobcfwentjadwzhhdimhnsgtb/DropDownDemo_Prefix.pch -c /Users/ameya/project/junk/DropDownDemo/Classes/SettingController.m -o /Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/SettingController.o0#
+
+CCompileC build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/main.o /Users/ameya/project/junk/DropDownDemo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307051842.270024
+e307051842.331182
+r1
+xCompileC
+xbuild/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/main.o
+x/Users/ameya/project/junk/DropDownDemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/ameya/project/junk/DropDownDemo/main.m307051842#307051842#0(0"0(0#0#45"/Users/ameya/project/junk/DropDownDemo/main.m8616583168#2001"    cd /Users/ameya/project/junk/DropDownDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-generated-files.hmap -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-own-target-headers.hmap -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-all-target-headers.hmap -iquote /Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-project-headers.hmap -F/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator -I/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/include -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DerivedSources/i386 -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DerivedSources -include /var/folders/-j/-jhyn+QTGluq5IHDN8k9qU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DropDownDemo_Prefix-dmekobcfwentjadwzhhdimhnsgtb/DropDownDemo_Prefix.pch -c /Users/ameya/project/junk/DropDownDemo/main.m -o /Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/ameya/project/junk/DropDownDemo/Classes/FirstController.xib
+s307101051.724321
+e307101052.148449
+r1
+xCompileXIB
+x/Users/ameya/project/junk/DropDownDemo/Classes/FirstController.xib
+lSLF07#2@38"CompileXIB Classes/FirstController.xib307101051#307101052#0(0"0(0#0#66"/Users/ameya/project/junk/DropDownDemo/Classes/FirstController.xib8599414656#593"    cd /Users/ameya/project/junk/DropDownDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/FirstController.nib /Users/ameya/project/junk/DropDownDemo/Classes/FirstController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/ameya/project/junk/DropDownDemo/Classes/SecondController.xib
+s307052243.644639
+e307052244.022740
+r1
+xCompileXIB
+x/Users/ameya/project/junk/DropDownDemo/Classes/SecondController.xib
+lSLF07#2@39"CompileXIB Classes/SecondController.xib307052243#307052244#0(0"0(0#0#67"/Users/ameya/project/junk/DropDownDemo/Classes/SecondController.xib8621867680#595"    cd /Users/ameya/project/junk/DropDownDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/SecondController.nib /Users/ameya/project/junk/DropDownDemo/Classes/SecondController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/ameya/project/junk/DropDownDemo/Classes/SettingController.xib
+s307133715.508354
+e307133715.930509
+r1
+xCompileXIB
+x/Users/ameya/project/junk/DropDownDemo/Classes/SettingController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@40"CompileXIB Classes/SettingController.xib307133715#307133715#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#68"/Users/ameya/project/junk/DropDownDemo/Classes/SettingController.xib30399761348493424#597"    cd /Users/ameya/project/junk/DropDownDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/SettingController.nib /Users/ameya/project/junk/DropDownDemo/Classes/SettingController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/ameya/project/junk/DropDownDemo/DropDownDemoViewController.xib
+s307051840.750849
+e307051841.141303
+r1
+xCompileXIB
+x/Users/ameya/project/junk/DropDownDemo/DropDownDemoViewController.xib
+lSLF07#2@41"CompileXIB DropDownDemoViewController.xib307051840#307051841#0(0"0(0#0#69"/Users/ameya/project/junk/DropDownDemo/DropDownDemoViewController.xib8621298752#607"    cd /Users/ameya/project/junk/DropDownDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/DropDownDemoViewController.nib /Users/ameya/project/junk/DropDownDemo/DropDownDemoViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/ameya/project/junk/DropDownDemo/MainWindow.xib
+s307051840.750082
+e307051841.206225
+r1
+xCompileXIB
+x/Users/ameya/project/junk/DropDownDemo/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib307051840#307051841#0(0"0(0#0#53"/Users/ameya/project/junk/DropDownDemo/MainWindow.xib8621716736#575"    cd /Users/ameya/project/junk/DropDownDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/MainWindow.nib /Users/ameya/project/junk/DropDownDemo/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/DropDownDemo.app/button_back.png Images/button_back.png
+s307100774.690091
+e307100774.722811
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/DropDownDemo.app/button_back.png
+xImages/button_back.png
+lSLF07#2@27"Copy Images/button_back.png307100774#307100774#0(0"0(0#0#61"/Users/ameya/project/junk/DropDownDemo/Images/button_back.png8606518816#471"    cd /Users/ameya/project/junk/DropDownDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/ameya/project/junk/DropDownDemo/Images/button_back.png /Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app0#
+
+CCpResource build/Debug-iphonesimulator/DropDownDemo.app/down.png Images/down.png
+s307134200.407110
+e307134200.713431
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/DropDownDemo.app/down.png
+xImages/down.png
+lSLF07#2@20"Copy Images/down.png307134200#307134200#0(0"0(0#0#54"/Users/ameya/project/junk/DropDownDemo/Images/down.png30399800003068008#464"    cd /Users/ameya/project/junk/DropDownDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/ameya/project/junk/DropDownDemo/Images/down.png /Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app0#
+
+CGenerateDSYMFile /Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app.dSYM /Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/DropDownDemo
+s307211219.558569
+e307211219.579228
+r1
+xGenerateDSYMFile
+x/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app.dSYM
+x/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/DropDownDemo
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/DropDownDemo.app.dSYM build/Debug-iphonesimulator/DropDownDemo.app/DropDownDemo307211219#307211219#0(0"0(0#0#96"/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/DropDownDemo8614357216#398"    cd /Users/ameya/project/junk/DropDownDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/DropDownDemo -o /Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app.dSYM0#
+
+CLd /Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/DropDownDemo normal i386
+s307211219.533049
+e307211219.558470
+r1
+xLd
+x/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/DropDownDemo
+xnormal
+xi386
+lSLF07#2@101"Link /Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/DropDownDemo307211219#307211219#0(0"0(0#0#0"8614964288#925"    cd /Users/ameya/project/junk/DropDownDemo    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator -F/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator -filelist /Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/Objects-normal/i386/DropDownDemo.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/DropDownDemo0#
+
+CProcessInfoPlistFile /Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/Info.plist DropDownDemo-Info.plist
+s307051840.720796
+e307051840.749981
+r1
+xProcessInfoPlistFile
+x/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/Info.plist
+xDropDownDemo-Info.plist
+lSLF07#2@31"Process DropDownDemo-Info.plist307051840#307051840#0(0"0(0#0#62"/Users/ameya/project/junk/DropDownDemo/DropDownDemo-Info.plist8618890368#494"    cd /Users/ameya/project/junk/DropDownDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DropDownDemo-Info.plist -genpkginfo /Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app/Info.plist0#
+
+CProcessPCH /var/folders/-j/-jhyn+QTGluq5IHDN8k9qU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DropDownDemo_Prefix-dmekobcfwentjadwzhhdimhnsgtb/DropDownDemo_Prefix.pch.gch DropDownDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s307051841.576691
+e307051842.269830
+r1
+xProcessPCH
+x/var/folders/-j/-jhyn+QTGluq5IHDN8k9qU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DropDownDemo_Prefix-dmekobcfwentjadwzhhdimhnsgtb/DropDownDemo_Prefix.pch.gch
+xDropDownDemo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile DropDownDemo_Prefix.pch307051841#307051842#0(0"0(0#0#62"/Users/ameya/project/junk/DropDownDemo/DropDownDemo_Prefix.pch8620617120#1888"    cd /Users/ameya/project/junk/DropDownDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-generated-files.hmap -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-own-target-headers.hmap -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-all-target-headers.hmap -iquote /Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DropDownDemo-project-headers.hmap -F/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator -I/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/include -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DerivedSources/i386 -I/Users/ameya/project/junk/DropDownDemo/build/DropDownDemo.build/Debug-iphonesimulator/DropDownDemo.build/DerivedSources -c /Users/ameya/project/junk/DropDownDemo/DropDownDemo_Prefix.pch -o /var/folders/-j/-jhyn+QTGluq5IHDN8k9qU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DropDownDemo_Prefix-dmekobcfwentjadwzhhdimhnsgtb/DropDownDemo_Prefix.pch.gch0#
+
+CTouch /Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app
+s307211219.579315
+e307211219.581857
+r1
+xTouch
+x/Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app
+lSLF07#2@89"Touch /Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app307211219#307211219#0(0"0(0#0#0"8612941248#283"    cd /Users/ameya/project/junk/DropDownDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ameya/project/junk/DropDownDemo/build/Debug-iphonesimulator/DropDownDemo.app0#
+
